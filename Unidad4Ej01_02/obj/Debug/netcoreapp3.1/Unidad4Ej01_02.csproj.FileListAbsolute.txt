@@ -1,0 +1,12 @@
+/Users/astridmalamud/Projects/ProgObjetorUnidad4/Unidad4Ej01_02/bin/Debug/netcoreapp3.1/Unidad4Ej01_02.deps.json
+/Users/astridmalamud/Projects/ProgObjetorUnidad4/Unidad4Ej01_02/bin/Debug/netcoreapp3.1/Unidad4Ej01_02.runtimeconfig.json
+/Users/astridmalamud/Projects/ProgObjetorUnidad4/Unidad4Ej01_02/bin/Debug/netcoreapp3.1/Unidad4Ej01_02.runtimeconfig.dev.json
+/Users/astridmalamud/Projects/ProgObjetorUnidad4/Unidad4Ej01_02/bin/Debug/netcoreapp3.1/Unidad4Ej01_02.dll
+/Users/astridmalamud/Projects/ProgObjetorUnidad4/Unidad4Ej01_02/bin/Debug/netcoreapp3.1/Unidad4Ej01_02.pdb
+/Users/astridmalamud/Projects/ProgObjetorUnidad4/Unidad4Ej01_02/obj/Debug/netcoreapp3.1/Unidad4Ej01_02.csprojAssemblyReference.cache
+/Users/astridmalamud/Projects/ProgObjetorUnidad4/Unidad4Ej01_02/obj/Debug/netcoreapp3.1/Unidad4Ej01_02.AssemblyInfoInputs.cache
+/Users/astridmalamud/Projects/ProgObjetorUnidad4/Unidad4Ej01_02/obj/Debug/netcoreapp3.1/Unidad4Ej01_02.AssemblyInfo.cs
+/Users/astridmalamud/Projects/ProgObjetorUnidad4/Unidad4Ej01_02/obj/Debug/netcoreapp3.1/Unidad4Ej01_02.csproj.CoreCompileInputs.cache
+/Users/astridmalamud/Projects/ProgObjetorUnidad4/Unidad4Ej01_02/obj/Debug/netcoreapp3.1/Unidad4Ej01_02.dll
+/Users/astridmalamud/Projects/ProgObjetorUnidad4/Unidad4Ej01_02/obj/Debug/netcoreapp3.1/Unidad4Ej01_02.pdb
+/Users/astridmalamud/Projects/ProgObjetorUnidad4/Unidad4Ej01_02/obj/Debug/netcoreapp3.1/Unidad4Ej01_02.genruntimeconfig.cache
