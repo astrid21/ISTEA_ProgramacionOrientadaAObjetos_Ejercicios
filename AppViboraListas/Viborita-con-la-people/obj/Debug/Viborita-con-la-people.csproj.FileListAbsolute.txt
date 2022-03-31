@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Viborita-con-la-people\Viborita-con-la-people\bin\Debug\Viborita-con-la-people.exe.config
+C:\Users\Lucas\source\repos\Viborita-con-la-people\Viborita-con-la-people\bin\Debug\Viborita-con-la-people.exe
+C:\Users\Lucas\source\repos\Viborita-con-la-people\Viborita-con-la-people\bin\Debug\Viborita-con-la-people.pdb
+C:\Users\Lucas\source\repos\Viborita-con-la-people\Viborita-con-la-people\obj\Debug\Viborita-con-la-people.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Viborita-con-la-people\Viborita-con-la-people\obj\Debug\Viborita-con-la-people.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Viborita-con-la-people\Viborita-con-la-people\obj\Debug\Viborita-con-la-people.exe
+C:\Users\Lucas\source\repos\Viborita-con-la-people\Viborita-con-la-people\obj\Debug\Viborita-con-la-people.pdb
