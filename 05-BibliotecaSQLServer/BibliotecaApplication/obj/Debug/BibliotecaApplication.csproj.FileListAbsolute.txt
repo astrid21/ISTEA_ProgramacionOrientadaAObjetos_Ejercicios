@@ -1,0 +1,13 @@
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\bin\Debug\WindowsFormApplication.exe.config
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\bin\Debug\WindowsFormApplication.exe
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\bin\Debug\WindowsFormApplication.pdb
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\obj\Debug\BibliotecaApplication.csprojResolveAssemblyReference.cache
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\obj\Debug\WindowsFormApplication.AdminLibrosForm.resources
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\obj\Debug\WindowsFormApplication.AdminLectoresForm.resources
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\obj\Debug\WindowsFormApplication.ConsultaEnPrestamoForm.resources
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\obj\Debug\WindowsFormApplication.ConsultaLectoresSinLibrosForm.resources
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\obj\Debug\WindowsFormApplication.MainForm.resources
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\obj\Debug\WindowsFormApplication.ConsultaPrestamoAgrupadoForm.resources
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\obj\Debug\BibliotecaApplication.csproj.GenerateResource.Cache
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\obj\Debug\WindowsFormApplication.exe
+C:\Temp\Ejercicios\Unidad 9\05-BibliotecaSQLServer\BibliotecaApplication\obj\Debug\WindowsFormApplication.pdb
