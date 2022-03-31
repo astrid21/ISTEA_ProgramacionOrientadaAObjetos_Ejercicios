@@ -1,0 +1,7 @@
+C:\Users\HTORE\Downloads\AppErrores\AppErrores\bin\Debug\AppErrores.exe.config
+C:\Users\HTORE\Downloads\AppErrores\AppErrores\bin\Debug\AppErrores.exe
+C:\Users\HTORE\Downloads\AppErrores\AppErrores\bin\Debug\AppErrores.pdb
+C:\Users\HTORE\Downloads\AppErrores\AppErrores\obj\Debug\AppErrores.csproj.CoreCompileInputs.cache
+C:\Users\HTORE\Downloads\AppErrores\AppErrores\obj\Debug\AppErrores.exe
+C:\Users\HTORE\Downloads\AppErrores\AppErrores\obj\Debug\AppErrores.pdb
+C:\Users\HTORE\Downloads\AppErrores\AppErrores\obj\Debug\AppErrores.csproj.AssemblyReference.cache
