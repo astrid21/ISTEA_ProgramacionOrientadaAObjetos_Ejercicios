@@ -1,0 +1,12 @@
+/Users/astridmalamud/Projects/EjercicioHerencia/EjercicioHerencia/bin/Debug/netcoreapp3.1/EjercicioHerencia.deps.json
+/Users/astridmalamud/Projects/EjercicioHerencia/EjercicioHerencia/bin/Debug/netcoreapp3.1/EjercicioHerencia.runtimeconfig.json
+/Users/astridmalamud/Projects/EjercicioHerencia/EjercicioHerencia/bin/Debug/netcoreapp3.1/EjercicioHerencia.runtimeconfig.dev.json
+/Users/astridmalamud/Projects/EjercicioHerencia/EjercicioHerencia/bin/Debug/netcoreapp3.1/EjercicioHerencia.dll
+/Users/astridmalamud/Projects/EjercicioHerencia/EjercicioHerencia/bin/Debug/netcoreapp3.1/EjercicioHerencia.pdb
+/Users/astridmalamud/Projects/EjercicioHerencia/EjercicioHerencia/obj/Debug/netcoreapp3.1/EjercicioHerencia.AssemblyInfoInputs.cache
+/Users/astridmalamud/Projects/EjercicioHerencia/EjercicioHerencia/obj/Debug/netcoreapp3.1/EjercicioHerencia.AssemblyInfo.cs
+/Users/astridmalamud/Projects/EjercicioHerencia/EjercicioHerencia/obj/Debug/netcoreapp3.1/EjercicioHerencia.csproj.CoreCompileInputs.cache
+/Users/astridmalamud/Projects/EjercicioHerencia/EjercicioHerencia/obj/Debug/netcoreapp3.1/EjercicioHerencia.dll
+/Users/astridmalamud/Projects/EjercicioHerencia/EjercicioHerencia/obj/Debug/netcoreapp3.1/EjercicioHerencia.pdb
+/Users/astridmalamud/Projects/EjercicioHerencia/EjercicioHerencia/obj/Debug/netcoreapp3.1/EjercicioHerencia.genruntimeconfig.cache
+/Users/astridmalamud/Projects/EjercicioHerencia/EjercicioHerencia/obj/Debug/netcoreapp3.1/EjercicioHerencia.csproj.AssemblyReference.cache
