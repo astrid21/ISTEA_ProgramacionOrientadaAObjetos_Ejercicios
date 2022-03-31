@@ -1,0 +1,5 @@
+C:\Users\HTORE\Downloads\Parcial2OOP2021 (SOLUCION)\Parcial2OOP2021\bin\Debug\ClassLibraryADOPersister.dll
+C:\Users\HTORE\Downloads\Parcial2OOP2021 (SOLUCION)\Parcial2OOP2021\bin\Debug\ClassLibraryADOPersister.pdb
+C:\Users\HTORE\Downloads\Parcial2OOP2021 (SOLUCION)\Parcial2OOP2021\obj\Debug\Parcial2OOP2021.csproj.CoreCompileInputs.cache
+C:\Users\HTORE\Downloads\Parcial2OOP2021 (SOLUCION)\Parcial2OOP2021\obj\Debug\ClassLibraryADOPersister.dll
+C:\Users\HTORE\Downloads\Parcial2OOP2021 (SOLUCION)\Parcial2OOP2021\obj\Debug\ClassLibraryADOPersister.pdb
